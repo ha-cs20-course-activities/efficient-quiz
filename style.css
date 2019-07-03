@@ -1,0 +1,10 @@
+body {
+    width: 600px;
+    margin: auto;
+}
+
+div {
+    border: 2px solid grey;
+    padding: 20px;
+    margin: 20px 0;
+}
